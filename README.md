@@ -1,3 +1,3 @@
 # Breast-_Cancer_Prediction\
 
-Breast Cancer Detection App Using Machine Learning Logistic Regression
+Breast Cancer Prediction Using Machine Learning Logistic Regression
